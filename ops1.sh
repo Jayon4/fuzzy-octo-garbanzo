@@ -5,8 +5,4 @@
 # Date of latest revision: 11/18/24
 # Purpose: Print a string to the terminal
 echo "Hello, Ops."
-<<<<<<< HEAD
-#test
-=======
 
->>>>>>> f28464dfef50237ed117988c378c63efed66a9f1
