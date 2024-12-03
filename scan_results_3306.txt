@@ -1,0 +1,9 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-11-26 22:46 CST
+Nmap scan report for 192.168.4.60
+Host is up (0.19s latency).
+
+PORT     STATE SERVICE
+3306/tcp open  mysql
+MAC Address: C6:C6:3A:F8:ED:36 (Unknown)
+
+Nmap done: 1024 IP addresses (14 hosts up) scanned in 75.34 seconds
